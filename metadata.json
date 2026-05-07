@@ -1,0 +1,8 @@
+{
+  "name": "Parth K. Pandya Portfolio",
+  "description": "Portfolio of an MCA Operations Specialist",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
